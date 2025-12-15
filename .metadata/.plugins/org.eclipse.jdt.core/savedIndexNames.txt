@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\FSAD\.metadata\.plugins\org.eclipse.jdt.core
+4191800083.index
+1939323154.index
+1865797976.index
